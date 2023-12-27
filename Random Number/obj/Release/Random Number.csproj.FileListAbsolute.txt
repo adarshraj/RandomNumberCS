@@ -1,0 +1,24 @@
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\obj\Release\Window1.baml
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\obj\Release\Window1.g.cs
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\obj\Release\App.g.cs
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\obj\Release\Random Number_MarkupCompile.cache
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\obj\Release\Random Number.g.resources
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\obj\Release\Random_Number.Properties.Resources.resources
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\obj\Release\Random Number.csproj.GenerateResource.Cache
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\bin\Release\Random Number.exe
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\bin\Release\Random Number.pdb
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\obj\Release\Random Number.exe
+D:\Documents and Settings\Teee\Local Settings\Application Data\Temporary Projects\Random Number\obj\Release\Random Number.pdb
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\bin\Release\Random Number.exe
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\bin\Release\Random Number.pdb
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\obj\Release\Window1.baml
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\obj\Release\Window1.g.cs
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\obj\Release\App.g.cs
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\obj\Release\Random Number_MarkupCompile.cache
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\obj\Release\Random Number.g.resources
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\obj\Release\Random_Number.Properties.Resources.resources
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\obj\Release\Random Number.csproj.GenerateResource.Cache
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\obj\Release\Random Number.exe
+C:\Documents and Settings\Ads\My Documents\Visual Studio 2008\Projects\Random Number\Random Number\obj\Release\Random Number.pdb
